@@ -1,0 +1,3 @@
+﻿"id";"supplier";"supplier_sku";"sku";"sku_scope";"name";"price";"price_unit";"pack_size";"content_unit";"currency";"tax_mode";"vat_rate";"min_order";"order_step";"lead_days";"shipping"
+"A";"ДЕМО • Альфа";"";"001-100";"catalog";"ДЕМО • Крепёж M6, оцинкованный";"850";"упак";"100";"шт";"RUB";"included";"";"1";"1";"3–5";"300"
+"A";"ДЕМО • Бета";"";"001-100";"catalog";"ДЕМО • Крепёж M6, оцинкованный";"9,50";"шт";"";"";"RUB";"excluded";"20";"300";"100";"2";"0"
